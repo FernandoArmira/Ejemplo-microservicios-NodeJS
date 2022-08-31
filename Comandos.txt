@@ -1,0 +1,6 @@
+npm init --y
+npm i dotenv express cors
+npm i nodemon -D
+
+gateway
+npm i express cors express-http-proxy
